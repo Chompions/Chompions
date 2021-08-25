@@ -5,14 +5,16 @@
 - 💞️ You can reach out to me if you like to collaborate with me  
 - 📫 If you need any inquiries, you can contact me through email chompionsuratman@gmail.com
 
-
-### Github Statistic
+### Github Stats
 <p align="left">
 <a href="https://github.com/Chompions">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chompions&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chompions&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chompions&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chompions&theme=radical&layout=compact"/>
 </a>
 </p>
+
+### My Works
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chompions&repo=Infake&theme=radical)](https://github.com/Chompions/Infake)
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/chompions/">LinkedIn</a>

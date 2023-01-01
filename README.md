@@ -12,9 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chompions&theme=radical"/>
 </a>
 
-### My Works
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chompions&repo=Infake&theme=radical)](https://github.com/Chompions/Infake)
-
 ### Reach me on
 - <a href="https://www.linkedin.com/in/chompions/">LinkedIn</a>
 - <a href="https://twitter.com/Chom_Dum_Dum">Twitter</a>
